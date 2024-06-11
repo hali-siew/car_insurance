@@ -125,4 +125,9 @@ for x in results:
     cnx.commit()
 ```
 
+### Visual from Tableau showing the number of accidents per zip code 
+![Screenshot 2024-06-11 193315](https://github.com/hali-siew/car_insurance/assets/109008466/148e20ea-e7e8-4bf8-87e3-92d9119ce293)
+
+### Visual from Tableau showing the price of car insurance premium
+![Screenshot 2024-06-11 193326](https://github.com/hali-siew/car_insurance/assets/109008466/af23286e-5eeb-405d-bb41-4d63d8a38a16)
 
