@@ -128,6 +128,11 @@ for x in results:
 ### Visual from Tableau showing the number of accidents per zip code 
 ![Screenshot 2024-06-11 193315](https://github.com/hali-siew/car_insurance/assets/109008466/148e20ea-e7e8-4bf8-87e3-92d9119ce293)
 
+### Filtered Visual Tableau showing the number of accidents per zip code
+![image](https://github.com/hali-siew/car_insurance/assets/109008466/6ca0d9a9-de8b-4f82-8b33-5a848fc9ec89)
+
 ### Visual from Tableau showing the price of car insurance premium
 ![Screenshot 2024-06-11 193326](https://github.com/hali-siew/car_insurance/assets/109008466/af23286e-5eeb-405d-bb41-4d63d8a38a16)
 
+## Conclusion 
+The visual indicates a strong correlation between the number of accidents and car insurance premiums, but it also reveals that other factors influence pricing. When we filter out zip codes with nearly double the number of accidents, we observe that areas like lower Brooklyn have higher premiums due to a higher number of accidents. Conversely, in Rockaway Beach, high premiums despite low accident rates suggest additional factors at play. Overall, the data highlights that while accident rates significantly impact premiums, they are not the sole determining factor.
