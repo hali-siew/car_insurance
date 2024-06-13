@@ -125,14 +125,23 @@ for x in results:
     cnx.commit()
 ```
 
-### Visual from Tableau showing the number of accidents per zip code 
-![Screenshot 2024-06-11 193315](https://github.com/hali-siew/car_insurance/assets/109008466/148e20ea-e7e8-4bf8-87e3-92d9119ce293)
+## Visual from Tableau showing the number of accidents per zip code 
+![image](https://github.com/hali-siew/car_insurance/assets/109008466/48b0802c-afcc-4bcc-864d-14ec21637a62)
 
-### Filtered Visual Tableau showing the number of accidents per zip code
-![image](https://github.com/hali-siew/car_insurance/assets/109008466/6ca0d9a9-de8b-4f82-8b33-5a848fc9ec89)
-
-### Visual from Tableau showing the price of car insurance premium
+## Visual from Tableau showing the price of car insurance premium
 ![Screenshot 2024-06-11 193326](https://github.com/hali-siew/car_insurance/assets/109008466/af23286e-5eeb-405d-bb41-4d63d8a38a16)
 
+### Analysis 
+Some general observations include the Brooklyn area having a higher number of accidents, which results in higher insurance premiums compared to areas like Manhattan. Additionally, regions with higher premiums often influence surrounding areas, even if those areas do not have similarly high accident rates.
+
+## Filtered Visual showing the number of accidents in Manhattan
+![Map 1](https://github.com/hali-siew/car_insurance/assets/109008466/dd2d8cb1-f0d1-44e4-b2e6-4bce04efd9f4)
+
+## Filtered Visual showing the price of car insurance premiums in Manhattan
+![Map 1 2 0](https://github.com/hali-siew/car_insurance/assets/109008466/c409019a-87c8-4212-9766-7abdf3e3faf6)
+
+### Analysis 
+A closer comparison of the number of accidents and insurance premiums in Manhattan shows a strong correlation. Areas with a high number of accidents tend to have higher premiums. However, some areas with lower accident rates still have high premiums, indicating that other factors also influence the cost of insurance.
+
 ## Conclusion 
-The visual indicates a strong correlation between the number of accidents and car insurance premiums, but it also reveals that other factors influence pricing. When we filter out zip codes with nearly double the number of accidents, we observe that areas like lower Brooklyn have higher premiums due to a higher number of accidents. Conversely, in Rockaway Beach, high premiums despite low accident rates suggest additional factors at play. Overall, the data highlights that while accident rates significantly impact premiums, they are not the sole determining factor.
+The visual indicates a strong correlation between the number of accidents and car insurance premiums but also reveals that other factors influence pricing. The overall map shows that areas like Brooklyn have higher accident rates accompanied by higher premiums. Conversely, a closer look at Manhattan shows that while the general trend holds, certain areas do not align with this assumption. Overall, the data highlights that while accident rates significantly impact premiums, they are not the sole determining factor.
