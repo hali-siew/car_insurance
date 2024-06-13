@@ -2,7 +2,7 @@
  _How does accidents influence car insurance prices?_
 
 ### Goal
-The goal of this project is to investigate the correlation between car accidents and car premiums. With Python and Tableau, this study will allow for a deeper understanding of how car insurance pricing is influenced by the number of car accidents.  
+The goal of this project is to better understand the correlation between car accidents and car premiums. With Python and Tableau, this study will allow for a deeper understanding of how car insurance pricing is influenced by the number of car accidents.  
 
 ### Software Used
 [Python](https://www.python.org/downloads/)\
